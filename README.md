@@ -1,7 +1,6 @@
 # KyptoAlertAPI-18BCE10257
-## ASSESSMENT GIVEN BY KRYPTO COMPANY 
 ## a price alert application that triggers an email when the user’s target price is achieved.
-
+<h3> By Shreyaa Dani </h3> 
 
 <hr>
 Repository consists for 4 files:
