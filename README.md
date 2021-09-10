@@ -13,6 +13,7 @@ Repository consists for 4 files:
   
  ## INSTALLATION
  Pull the repository and Check out all the files in your local directory
+ (please check out ppt for understanding of the files and architechture)
  ## DATABASE SETUP
  <ul> Create Database Username= postgres and Password=postgres</ul>
  <ul>
